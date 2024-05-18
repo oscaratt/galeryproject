@@ -1,5 +1,5 @@
 import React from 'react'
-import Img3 from '../imagenes/img_3.jpeg'
+import Img3 from '../imagenes/Bgotaa.jpg'
 
 const Img_3 = () => {
   return (
